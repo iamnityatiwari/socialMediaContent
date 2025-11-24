@@ -41,7 +41,7 @@ To display screenshots directly in the README, use this format:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/iamnityatiwari/socialMediaContent>
 ```
 
 2. Open the project folder.
