@@ -36,6 +36,18 @@ To display screenshots directly in the README, use this format:
 ### Screenshot 6
 <img src="screenshots\s6.jpeg" width="400" />
 
+
+### Screenshot 7
+<img src="screenshots\s7.jpeg" width="400" />
+
+
+### Screenshot 8
+<img src="screenshots\s8.jpeg" width="400" />
+
+### Screenshot 9
+<img src="screenshots\s9.jpeg" width="400" />
+
+
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
